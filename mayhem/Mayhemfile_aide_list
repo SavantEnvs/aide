@@ -1,0 +1,8 @@
+project: savantenvs/aide
+target: aide_list
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/aide_list/testsuite
+cmds:
+  - cmd: /mayhem/mayhem/out/aide_list @@
+    timeout: 5

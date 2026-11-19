@@ -1,0 +1,13 @@
+# Build context for mayhem/Dockerfile: the full repo incl. .git, minus local build outputs.
+mayhem/build-fuzz/
+mayhem/build-test/
+mayhem/out/
+**/*.o
+**/*.a
+**/*.so
+autom4te.cache/
+config.status
+config.log
+.DS_Store
+*.swp
+*~

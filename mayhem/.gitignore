@@ -1,0 +1,4 @@
+# Out-of-tree build directories and outputs written by mayhem/build.sh
+/build-fuzz/
+/build-test/
+/out/

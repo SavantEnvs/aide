@@ -1,0 +1,4 @@
+@@begin_db
+@@db_spec name attr perm size md5
+/etc/x 0 100644 12 AAAA
+@@end_db

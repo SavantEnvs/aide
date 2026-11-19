@@ -1,0 +1,6 @@
+@@begin_db
+@@db_spec name lname perm uid gid size attr acl xattrs sha256
+/etc/x%20y 0 100644 0 0 3 8842266020797 POSIX,dXNlcjo6cnctCmdyb3VwOjpyLS0Kb3RoZXI6OnItLQo=,0 2,user.k,dmFs,user.e,ZQ== WJG1tSLV3whtD/CxEPvZ0hu0/HFjrzTQgoai6Eb2vgM=
+/etc/l a%25b 120777 0 0 1 42949675967 0 1,security.selinux,c3lzdGVtX3U6b2JqZWN0X3I6ZXRjX3Q6czAA 0
+/tmp/z 0 100600 1000 1000 0 0 POSIX,0,0 0 0
+@@end_db
